@@ -2,8 +2,7 @@
 .slideshow-container {
   max-width: 400px;
   position: relative;
-  margin: auto;
-}
+  }
 
 /* The dots/bullets/indicators */
 .dot {
