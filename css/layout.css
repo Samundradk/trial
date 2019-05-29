@@ -198,12 +198,11 @@ body{
 
 .text>img{
   display: inline-flex;
+  height: auto;
+  width: auto;
 }
 #link>.text{
   top:220%;
-}
-#link>img{
-  display:inline-flex;
 }
 
 table>th{
