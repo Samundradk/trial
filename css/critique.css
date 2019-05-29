@@ -64,7 +64,8 @@
   top: 50%;
   left: 50%;
   font-size: 16px;
-  color: white;
+  color: black;
+  background-color: white;
   font-family: monospace;
   font-weight: bolder;
   transform: translate(-50%,-50%);

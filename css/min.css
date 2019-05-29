@@ -147,6 +147,10 @@ body{
    color:brown;
    margin-left:15px;
 }
+.container ol li{
+  color: brown;
+
+}
 .container ul li a{
   color:black;
   font-size: 18px;
